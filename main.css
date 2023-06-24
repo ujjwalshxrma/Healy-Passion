@@ -1,0 +1,217 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:#fff;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul.nav {
+    text-align: right;
+  }
+  nav li {
+    display:inline-block;
+    margin-right: 10px;
+    padding-left: 10px;
+  }
+  
+  nav a {
+    color: #313434;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    text-decoration: none;
+    padding-inline-start: 90px;
+  }
+  
+  nav a:hover {
+    text-decoration:dotted;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  .heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(0,50,100,.8);
+    font-style: bold;
+    padding-top: 20px;
+    font-size: 65px;
+    padding-left: 899px;
+  }
+  .sub{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 583px;
+  }
+  .sub1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 789px;
+  }
+
+  .textbox {
+    background-color: transparent;
+    border:#313434;
+    padding-left: 923px;
+    padding-top: 118px;
+  }
+  
+  .hss{
+    width: 300px;
+    height: 50px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    resize: none;
+    padding: 1px;
+    text-overflow: ellipsis;
+    transition: opacity .1s ease-in-out,transform .1s ease-in-out;
+    color: #110b0b;
+  }
+
+  .form{
+    color: rgba(0,50,100,.8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-left: 75px;
+  }
+  
+  .txt{
+    background-color: transparent;
+    border:#313434;
+    padding-left: 866px;
+    padding-top: 103px;
+  }
+  textarea {
+    width: 437px;
+    height: 159px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    resize: none;
+    padding: 1px;
+    text-overflow: ellipsis;
+    transition: opacity .1s ease-in-out,transform .1s ease-in-out;
+    color: #110b0b;
+  }
+  .mess{
+    color: rgba(0,50,100,.8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-left: 160px;
+  }
+  .button{
+    display: inline-block;
+    padding: 11px 29px;
+    border-radius: 4px;
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    top: 89%;
+    left: 36%;
+    text-align: center;
+  }
+  .button:hover {
+    background-color: #0056b3;
+  }
+  .buttons{
+    display: inline-block;
+    padding: 11px 28px;
+    border-radius: 4px;
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    top: 89%;
+    left: 53%;
+    text-align: center;
+  }
+  .buttons:hover {
+    background-color: #0056b3;
+  }
+  .butt{
+    display: inline-block;
+    padding: 11px 28px;
+    border-radius: 4px;
+    background-color: #0056b3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    right: 10%;
+    text-align: center;
+  }
+  .brand{
+    padding-left: 70px;
+    padding-top: 10px;
+  }
+  .logo{
+    position: absolute;
+    top: 105%;
+    left: 42%;
+  }
+  .logo img{
+    width: 176%;
+    height: 50%;
+  }
+  .ness{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 816px;
+    padding-top: 450px;
+  }
+  .ness1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 1008px;
+  }
+  .wass img{
+    position: absolute;
+    left: 38%;
+    width: 55px;
+  }
+  .contact{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 945px;
+    position:absolute;
+    top:140%;
+  }
+  .mob img{
+    position: absolute;
+    left: 40%;
+    top: 148%
+  }
+  .mail img{
+    position: absolute;
+    top: 148%;
+    padding-left: 960px;
+  }
+
+  .yt img{
+    position: absolute;
+    top: 146.10%;
+    width: 5.5%;
+    padding-left: 1060px;
+  }
+  .ppp{
+    margin-top: 10rem;
+    padding-left: 35%;
+  
+  }
